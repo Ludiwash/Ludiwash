@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Ludiwash
 - 👀 I'm interested in how everyday things work
 - 🌱 I am currently learning NodeJS: JavaScript and TypeScript
-- 📫 How to reach me (Discord) : **``Ludiwash#2894``**
+- 📫 How to reach me (Discord) : ``Ludiwash#2894``
+- ✨ Cartesian meaning
+- 💻 Code addict
+- 💾 "Living from day to day allows us to understand the beauty and futility of the world around us, in all its complexity."
